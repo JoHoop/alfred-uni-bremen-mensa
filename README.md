@@ -1,6 +1,6 @@
 # Uni Bremen Mensa Workflow for Alfred
 
-Alfred Workflow to fetch the weekly food menu at the Uni Bremen's cateen.
+Alfred Workflow to show the weekly food menu of Uni Bremen's cateen.
 
 ## Installation
 

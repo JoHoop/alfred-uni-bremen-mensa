@@ -9,6 +9,7 @@ Download workflow file [here](https://github.com/JoHoop/alfred-uni-bremen-mensa/
 ## Usage
 
 Type `mensa` in Alfred's search field to show the results.
+This keyword can be changed in the workflow settings.
 
 ## Credits
 
